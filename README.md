@@ -1,2 +1,2 @@
 # diogit
-Testes no curso Git DIO
+Testes no curso Git DIO.
